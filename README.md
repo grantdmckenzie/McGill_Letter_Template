@@ -1,1 +1,1 @@
-# McGill_Letter_Template
+# McGill Latex Letter Template
